@@ -1,4 +1,7 @@
 
+### Quiz App - React - TypeScript - Styled Components
+
+
 ### You can view the app [here](https://laughing-bell-431582.netlify.app)
 
 
